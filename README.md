@@ -1,14 +1,27 @@
 # Pink Buckle Project
- This analysis is of the Pink Buckle Barrel Racing Futurity for 2018-2020. Results were taken from https://www.pinkbuckle.com/race-results/ in pdf form and converted to a csv file with the Tabula package for Pandas.  
+
+## Installation
  
- Formatting for the results varied from year to year. The manipulation of the data into a clean dataframe was done in a script that is quite crude. Steps are similar from year to year and some columns were dropped prior to creating the final CSV.   
+ This analysis is of the Pink Buckle Barrel Racing Futurity for 2018-2020. 
+ 
+Results were taken from https://www.pinkbuckle.com/race-results/ in pdf form and converted to a csv file with the Tabula package for Pandas. 
+ 
+I have converted the PDF Files to CSV which can be found here.  To replicate that process: Tabula can be accessed here https://tabula-py.readthedocs.io/en/latest/
+
+
+ 
+## Project Motivation
+
+This project was undertaken for a Udacity Nano-Degree Program. I chose to utilize the pink buckle results because it was of personal interest to me at the time. 
+ 
+Formatting for the results varied from year to year. The manipulation of the data into a clean dataframe was done in a script that is quite crude. Steps are similar from year to year and some columns were dropped prior to creating the final CSV.   
  
 Money winnings did not come through readily with Tabula and I did not put much effort into bringing in the dollar amounts, only assigning a value to those. My analysis focused on the stallions. The goal was to determine which stallions had the highest percentages of money winners, offspring placing in the top division and most entries.
  
-This project was undertaken for a Udacity Nano-Degree Program. I chose to utilize the pink buckle results because it was of personal interest to me at the time. The Analysis followed the CRISP-DM process. 
+
   
   
-## Business Understanding/Data Understanding
+### Business Understanding/Data Understanding
 
 Barrel Racing has become big business in the equine industry.  Winning horses are often selling in the range of the upper five figures to lower six figures. As this sport has grown and matured, new events are being created to showcase these athletes beyond the rodeo arena.   
 

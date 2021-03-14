@@ -1,0 +1,167 @@
+,1st Go Place,Horse,Age,Color,Sex,Sire,Rider,#,1st Go,2nd Go Place,2nd Go
+0,1,Slick N Black ,2014,Black,Mare,Slick By Design,Cayla Small,147,16.992,29,17.47
+1,2,RR TooSlick Eye Mist ,2015,Sorrel,Gelding,Slick By Design,Emma Abbot,121,17.137,69,17.876
+2,3,Dash Ta Fire Canyon ,2015,Gray,Mare,Firewater Canyon,Ryann Pedone,5,17.146,28,17.463
+3,4,Slick Lane Ta Fame ,2015,Black,Mare,Slick By Design,Will Lear,114,17.147,10,17.265
+4,5,Leos Pretty Woman ,2015,Sorrel,Mare,Shawne Bug Leo,Janna Brown,19,17.195,133,22.436
+5,6,Loose Red Roses ,2014,Mare,,Blazin Jetolena,Jennifer Wilson,164,17.266,137,22.549
+6,7,JR Parker ,2014,Chestnut,Gelding,The Goodbye Lane,Jill Atkinson,49,17.269,6,17.156
+7,8,VF Eddie Bull ,2014,Bay,Gelding,Eddie Stinson,Ryan Reynolds,131,17.277,26,17.451
+8,9,Furys Princess ,2014,Chestnut,Mare,Furyofthewind,Taylor Shields,108,17.282,15,17.34
+9,10,One First Class Lady ,2015,Sorrel,Mare,Blazin Jetolena,Jordon Brigs,162,17.286,136,22.546
+10,11,Streakin Cisco ,2014,Bay Roan,Gelding,Streakin Boon Dox,Ashley Schafer,107,17.288,65,17.81
+11,12,Im A Slick Guy ,2015,Black,Stallion,Slick By Design,Sierra Shields Melby,160,17.293,4,17.127
+12,13,Simply Slick ,2015,Brown,Gelding,Slick By Design,Katelyn Mcleod,25,17.322,9,17.229
+13,14,A Dynamite Goodbye ,2014,Chestnut,Mare,The Goodbye Lane,Kristy Yarrington,111,17.347,135,22.517
+14,15,Hiccup ,2015,Sorrel,Gelding,MP Jet To The Sun,Ceri Ward,150,17.353,11,17.304
+15,16,Secret Ta Goodbye ,2014,Chestnut,Gelding,The Goodbye Lane,Kalena Webb,81,17.376,139,22.645
+16,17,RV Merri Goodbye ,2015,Chestnut,Mare,The Goodbye Lane,Vauna Walker,132,17.387,47,17.641
+17,18,Too Slick To Wait ,2015,Chestnut,Mare,Slick By Design,Tyler Crosby,135,17.388,19,17.42
+18,19,NDS Fly N Goodbye ,2014,Bay,Mare,The Goodbye Lane,Teigan Adams,97,17.389,122,19.265
+19,20,Good Grief Girl ,2014,Sorrel,Mare,The Goodbye Lane,Timi Lickley,22,17.404,13,17.326
+20,21,Mystery In The Winds ,2015,Sorrel,Mare,Furyofthewind,Alona James,43,17.417,3,17.049
+21,22,A Wealthy Design ,2015,Chestnut,Mare,Slick By Design,Kristin Hanchey,85,17.436,18,17.404
+22,23,VF Im That Kinda Gal ,2015,Sorrel,Mare,Eddie Stinson,Kelsey Lutjen,70,17.442,8,17.21
+23,24,VF Leo Stinson ,2015,Grullo,Gelding,Eddie Stinson,Chris Martin,18,17.454,14,17.34
+24,26,Bogie Stinson ,2015,Sorrel,Gelding,Eddie Stinson,Chris Coffey,2,17.455,109,18.431
+25,27,KB Honky Tonk Angel ,2015,Brown,Mare,Eddie Stinson,Kay Blandford,58,17.479,132,22.231
+26,28,Meri Me Eddie ,2015,Sorrel,Gelding,Eddie Stinson,Mark Bugni,78,17.481,142,22.9
+27,29,MS Tres Perks ,2014,Sorrel,Mare,Tres Seis,Kelsey Lutjen,112,17.482,61,17.749
+28,30,Fury on the Run ,2015,Bay,Mare,Furyofthewind,Terri Alexander,130,17.482,37,17.516
+29,31,Singing Soldier ,2014,Palomino,Gelding,Furyofthewind,Tricia Aldridge,144,17.487,145,23.091
+30,32,Rob Em Smooth ,2015,Buckskin,Stallion,A Smooth Guy,Kelsey Lutjen,87,17.497,66,17.827
+31,33,TwoBigFourMyBritches ,2015,Sorrel,Mare,Tres Seis,Janet Staton,80,17.52,17,17.393
+32,34,Mobetta Fame ,2014,Palomino,Gelding,A Smooth Guy,Karen Gleason,127,17.549,34,17.497
+33,35,Slicks Sweet Legacy ,2015,Brown,Mare,Slick By Design,Bradi Whiteside,1,17.564,102,18.341
+34,36,Jetolena Design ,2014,Bay,Mare,Slick By Design,Hallie Hanssen,153,17.594,54,17.688
+35,37,Slick As Pi ,2015,Bay,Gelding,Slick By Design,Ryann Pedone,36,17.598,144,23.009
+36,38,Double Down Stinson ,2015,Bay,Gelding,Eddie Stinson,Ryann Pedone,154,17.613,57,17.7
+37,39,VF Famous Six Moons ,2015,Palomino,Gelding,Born Ta Be Famous,Ryan Reynolds,166,17.615,147,23.46
+38,40,Shes So Slick ,2014,Buckskin,Mare,Slick By Design,Katelyn Mcleod,71,17.635,24,17.45
+39,41,MJ Fly Bye Lane ,2015,Mare,,The Goodbye Lane,Timi Lickley,151,17.652,172,999.0
+40,42,VF Born TA BA Winner ,2015,Buckskin,Gelding,Born Ta Be Famous,Mitzi Duke,120,17.659,38,17.521
+41,43,RV Minion ,2015,Bay,Gelding,The Goodbye Lane,Shana Gibson,39,17.675,22,17.433
+42,44,Cat Mai Flash ,2015,Brown,Gelding,Tres Seis,Rieanne Tallent,140,17.689,16,17.351
+43,45,Mr Dashin Bugs ,2015,Gelding,Gelding,Dashin Dynamo,Patricia Aldridge,158,17.697,107,18.359
+44,46,Eddies Midnight Girl ,2015,Mare,,Eddie Stinson,Kortney Kizer,148,17.701,51,17.672
+45,47,The Good Lane ,2014,Bay,Gelding,The Goodbye Lane,Cathy Morgan,15,17.708,5,17.139
+46,48,Clever Quick Leo ,2014,Sorrel,Stallion,Shawne Bug Leo,Mandi Jo Fox,101,17.715,78,17.979
+47,49,Outstanding Pay ,2014,Brown,Mare,Irish Pay,Lindsey O'Keeffe,37,17.747,41,17.54
+48,51,Slickgun ,2015,Gray,Mare,Slick By Design,Shellye Essenpreis,129,17.771,55,17.695
+49,52,Slick Em Up Sonny ,2014,Gray,Gelding,Slick By Design,Mecca Hickox,109,17.777,60,17.739
+50,53,TFour Uno Love ,2015,Sorrel,Mare,Tres Seis,Hallie Hanssen,16,17.78,52,17.687
+51,54,Zing Zing Its Talent ,2015,Bay,Gelding,Prime Talent,Jessie Wade,95,17.783,43,17.575
+52,55,Smoke N Lizzy Lane ,2014,Bay,Mare,The Goodbye Lane,Vauna Walker,157,17.784,42,17.564
+53,56,Shatter Me ,2014,Sorrel,Mare,Blazin Jetolena,Hallie Hanssen,68,17.791,45,17.61
+54,57,Sweet By Design ,2015,Bay,Mare,Slick By Design,Jamie Johnson,59,17.801,33,17.494
+55,58,DR Slick Bar ,2015,Black,Mare,Slick By Design,Josie Adkins,77,17.801,64,17.798
+56,59,Paint Your Blessings ,2015,Brown,Stallion,PYC Paint Your Wagon,Key Blandford,113,17.809,39,17.523
+57,60,Imaslickbug ,2015,Sorrel,Gelding,Slick By Design,Will Lear,48,17.81,32,17.494
+58,61,Sockit To Me Nonstop ,2014,Sorrel,Gelding,BHR Frenchies Socks,Katie Mace,149,17.811,88,18.091
+59,62,CM Waitin On Lane ,2014,Sorrel,Gelding,The Goodbye Lane,Marcie Wilson,155,17.816,76,17.961
+60,63,PG Sugar Fire ,2014,Gray,Mare,PG Dry Fire,Kendra Marvin,146,17.817,83,18.076
+61,64,CM Goodbye Hollywood ,2014,Chestnut,Gelding,The Goodbye Lane,Marcie Wilson,116,17.838,23,17.446
+62,65,BCK Spyder Monkey ,2014,Bay,Mare,The Goodbye Lane,Kallie Wright,93,17.846,134,22.482
+63,66,Frenchiesdoitbetter ,2015,Palomino,Mare,BHR Frenchies Socks,Brittany Lowary,26,17.855,21,17.428
+64,67,VF Sexy Stinson ,2015,Sorrel,Mare,Eddie Stinson,Scott Duke,152,17.863,120,19.133
+65,68,Born In A Hot Lane ,2015,Palomino,Gelding,Born Ta Be Famous,Brittany Tonozzi,52,17.881,92,18.167
+66,69,Not A Tres of Fear ,2015,Sorrel,Gelding,Tres Seis,Pete Oen,105,17.884,81,18.004
+67,70,Billy Thee Kid ,2014,Sorrel,Gelding,The Goodbye Lane,Jordan Argyle,56,17.888,46,17.619
+68,71,Slick Moons ,2015,Bay,Mare,Slick By Design,Marty Warren,100,17.912,30,17.48
+69,72,SX Blazin Brucolena ,2014,Chestnut,Gelding,Blazin Jetolena,Lori Shearer,119,17.912,71,17.897
+70,73,Johnny Reb Jackson * ,2014,Black,Stallion,Confederate Leader,Ryann Pedone,128,17.914,101,18.286
+71,74,Dynamite Love ,2015,Sorrel,Mare,Dashin Dynamo,Kyle McCormick,12,17.915,63,17.773
+72,76,Seven Spanish Angelz ,2015,Bay,Gelding,Slick By Design,Lacey Harmon,91,17.933,126,19.833
+73,77,Famous Wildthang ,2014,Chestnut,Mare,Corona Cartel,Taylor Hildreth,66,17.963,49,17.655
+74,78,Famous By Design ,2015,Brown,Mare,Slick By Design,Ryann Pedone,67,17.963,85,18.085
+75,79,NW Shawne Bug Wood ,2014,Palomino,Gelding,Shawne Bug Leo,Katy Moran,54,17.967,94,18.199
+76,80,Sheza Free Bug ,2015,Bay,Mare,Shawne Bug Leo,Jana Bean,23,17.982,7,17.183
+77,81,Coats Shawnee Flit ,2015,Bay,Mare,Shawne Bug Leo,Tami Semas,139,17.984,95,18.248
+78,82,SX Norte Chanel ,2014,Bay,Mare,Lead the Field,Tres Schaack,73,17.988,110,18.476
+79,83,Dynamic Firewater ,2015,Chestnut,Mare,Dashin Dynamo,Summer Pauly,134,18.056,82,18.053
+80,84,Girls Areborn Famous ,2015,Sorrel,Mare,Born Ta Be Famous,Stephanie E Cleveland,137,18.074,105,18.348
+81,85,He Rocks His Socks ,2015,Chestnut,Gelding,BHR Frenchies Socks,Derek Piel,51,18.08,96,18.254
+82,86,Imnotlikeotherguys ,2015,Gray,Gelding,BHR Frenchies Socks,Quay Eaves,98,18.099,56,17.7
+83,87,VR BugsNTheMoonlight ,2015,Sorrel,Gelding,Shawne Bug Leo,Jarrett D Long,30,18.1,108,18.418
+84,88,Fueling The Talent ,2014,Bay,Gelding,Prime Talent,Michelle Myers,161,18.129,112,18.572
+85,89,Doin What She Needs ,2014,Palomino,Mare,A Smooth Guy,Shawna Letcher,42,18.143,113,18.616
+86,90,Morgala Lane ,2014,Bay,Mare,The Goodbye Lane,Edria Day,33,18.149,67,17.856
+87,91,IRoseSuchAStinson ,2014,Palomino,Mare,Eddie Stinson,Jessie Domann,44,18.153,48,17.651
+88,92,I'll Toast To That ,2014,Sorrel,Gelding,BHR Frenchies Socks,Kit Thompson,165,18.159,140,22.684
+89,93,Little Bitta Fame ,2014,Sorrel,Mare,Eddie Stinson,Katelyn McLeod,117,18.191,106,18.359
+90,94,OE Money In My Socks ,2015,Bay,Mare,BHR Frenchies Socks,Ashley Harvey,11,18.205,35,17.499
+91,95,Lilly LivenInTheSun ,2014,Buckskin,Mare,MP Jet To The Sun,Sharin Hall,118,18.218,74,17.911
+92,96,Cuz She Can Design ,2015,Brown,Mare,Slick By Design,Marne Loosenort,89,18.231,103,18.344
+93,97,Shawne Bug Yankee ,2015,Sorrel,Gelding,Shawne Bug Leo,Kevin Miron,79,18.249,59,17.713
+94,98,VF Eysa Famous ,2015,Sorrel,Mare,Eddie Stinson,Sarah Rose Waguespack,94,18.249,53,17.687
+95,99,Famoulsy Smooth ,2014,Bay,Mare,A Smooth Guy,Davi Watterson,159,18.26,73,17.901
+96,101,SH Call Me Smooth ,2014,Palomino,Mare,A Smooth Guy,Sherri Cass,136,18.284,124,19.707
+97,102,Famouseaglesnowcone ,2014,Bay Roan,Mare,One Famous Eagle,Madison Hansen,145,18.302,97,18.264
+98,103,Road Tripping ,2014,Sorrel,Gelding,The Goodbye Lane,Bonnie Blain,3,18.312,148,23.674
+99,104,Lets Get Rollin ,2014,Sorrel,Gelding,Blazin Jetolena,Alyssa Bigon,61,18.319,154,28.025
+100,105,Miss Etta Stinson ,2015,Bay,Mare,Eddie Stinson,Marne Loosenort,28,18.373,40,17.525
+101,106,Sugary Lane ,2014,Chestnut,Mare,The Goodbye Lane,Josie Hales,60,18.373,70,17.877
+102,107,Burnt Bizkit ,2015,Sorrel,Mare,MP Jet To The Sun,Alyssa Bigon,4,18.376,114,18.744
+103,108,HP Ima Slick Guy ,2015,Bay,Gelding,Slick By Design,Ashley Schafer,7,18.396,62,17.773
+104,109,Hyers Prince PG ,2014,Brown,Gelding,PG Dry Fire,Hope Jordan,126,18.403,104,18.344
+105,110,Grand PC Redwood ,2015,Red Dun,Gelding,PC Redwood Manny,Teigan Adams,45,18.418,128,20.506
+106,111,Ms Diamond For You ,2014,Brown,Mare,Tres Seis,Janna Brown,64,18.42,130,21.502
+107,112,Patriots Firewater ,2015,Gray,Gelding,Firewater Canyon,Billie Ann Harmon,88,18.473,151,23.77
+108,113,Lady On A Jet ,2014,Bay,Mare,Blazin Jetolena,Pete Oen,31,18.476,160,999.0
+109,114,Aslickdesignedtofire ,2015,Sorrel,Gelding,Slick By Design,Virginia Benzer,142,18.535,91,18.13
+110,115,Fire In My Genes ,2014,Bay,Stallion,PG Dry Fire,Chris Holmes,17,18.542,90,18.121
+111,116,A Smooth Hula Queen ,2015,Palomino,Mare,A Smooth Guy,Audra Masterson,6,18.566,111,18.501
+112,117,Boots N Boardroom ,2014,Gray,Stallion,PC Redwood Manny,Craig Stritzke,163,18.684,89,18.115
+113,118,Hide Ur Crazy ,2014,Brown,Mare,PYC Paint Your Wagon,Rudie Hepper,92,18.716,99,18.283
+114,119,One Smooth Savage ,2014,Buckskin,Mare,A Smooth Guy,Shawna Letcher,106,18.769,129,20.537
+115,120,Born Ta Spitfire ,2015,Palomino,Mare,Born Ta Be Famous,Ashley Schoppa,24,18.792,143,22.943
+116,121,Heza Sharpdressedman ,2014,Bay,Gelding,Prime Talent,Lana Tibbitts,9,18.859,93,18.191
+117,122,RSR Speed Com Manny ,2014,Palomino,Gelding,PC Redwood Manny,Annie Okelberry,62,18.881,98,18.266
+118,123,Stripling Warrior ,2014,Chestnut,Gelding,The Goodbye Lane,Kinnon Peck,75,18.882,118,19.013
+119,124,Lipstick Onmy Corona ,2015,Bay,Mare,Furyofthewind,Brian Henry,13,18.905,158,999.0
+120,126,Cool Little Fire ,2014,Bay,Gelding,PG Dry Fire,Heather Leeper,102,18.96,127,19.856
+121,127,Sun Fame N Fun ,2014,Sorrel,Mare,MP Jet To The Sun,Abby Pursifull,47,18.972,121,19.253
+122,128,Moon Money Canyon ,2015,Gray,Gelding,Firewater Canyon,R yann Pedone,99,19.117,119,19.081
+123,129,Cashinginonmy Design ,2015,Chestnut,Gelding,Slick By Design,Emma Abbott,41,19.147,117,18.993
+124,130,Zooman Sooner ,2014,Sorrel,Gelding,Furyofthewind,Brandon Stokes,69,19.332,123,19.674
+125,131,BW Untraceable ,2015,Brown,Stallion,Tres Seis,Christy Hefley,65,19.605,86,18.086
+126,132,Okey Dokey Protegee ,2015,Brown,Mare,Shawne Bug Leo,Kaitlynn Ochsner,46,20.02,155,28.476
+127,133,Namgis Famous Romeo ,2014,Sorrel,Gelding,One Famous Eagle,Cassie Ambroue,20,21.963,159,999.0
+128,134,Ethyls Eyes ,2015,Brown,Mare,Furyofthewind,Leslie Willis,90,22.056,131,22.109
+129,135,Papagaia ,2015,Bay G),,Tres Seis,Andre Coelho,35,22.135,2,17.039
+130,136,Chips Ahoy ,2014,Sorrel,Gelding,The Goodbye Lane,Mckinlee Kellett,124,22.315,31,17.488
+131,137,RC PYC Back In Bay ,2014,Bay,Mare,PYC Paint Your Wagon,Jane Melby,133,22.377,12,17.313
+132,138,Gracies Lane ,2014,Brown,Mare,The Goodbye Lane,Dena Kirkpatrick,29,22.57,1,16.96
+133,139,FM Rizzo ,2015,Sorrel,Mare,Carrizzo,Abigail Poe,57,22.609,156,28.651
+134,140,Cajun Chrome ,2015,Sorrel,Gelding,Shawne Bug Leo,Dustin Angelle,8,22.621,36,17.503
+135,141,Bugs A Boo ,2015,Sorrel,Mare,Shawne Bug Leo,Jacque Woolman,156,22.709,79,17.991
+136,142,KB Blazin Sinns ,2015,Sorrel,Stallion,Blazin Jetolena,Marne Loosenort,76,22.745,68,17.875
+137,143,Slick Im Dandy ,2015,Bay,Gelding,Slick By Design,Glenn Stodart,14,22.829,72,17.901
+138,144,SG Funny Money ,2014,Gray,Gelding,The Goodbye Lane,Shana Gibson,86,22.845,27,17.458
+139,145,Bugs By Design ,2015,Chestnut,Mare,Slick By Design,Ashley Schafer,53,22.85,77,17.977
+140,146,Dynamic Lady Duo ,2015,Red Roan,Mare,Dashin Dynamo,Monica McClung,82,22.9,84,18.083
+141,147,Born In The Fastlane ,2015,Bay,Gelding,Born Ta Be Famous,Darren Boyce,63,23.004,163,999.0
+142,148,Shez Royally Smooth ,2015,Gray,Mare,A Smooth Guy,Hallie Hanssen,110,23.03,141,22.755
+143,149,We Paint The Wind ,2014,Bay,Mare,Furyofthewind,Brian Henry,83,23.038,157,29.273
+144,151,UX Smooth Stevi ,2014,Palomino,Mare,A Smooth Guy,D'Ann Gehlsen,72,23.068,80,18.002
+145,152,Tres A Bug Leo ,2015,Bay,Gelding,Shawne Bug Leo,Sue Smith,125,23.152,169,999.0
+146,153,Famously Perkin ,2015,Gray,Gelding,Born Ta Be Famous,Jennifer N Singleton,103,23.156,58,17.711
+147,154,Painted Prize ,2014,Brown,Mare,PYC Paint Your Wagon,Rudie Hepper,34,23.163,146,23.31
+148,155,Im Smoothies Girl ,2014,Sorrel,Mare,A Smooth Guy,Bridget Romey,55,23.2,149,23.695
+149,156,Mitchell ,2014,Sorrel,Gelding,Slick By Design,Christine Hefley,21,23.277,20,17.422
+150,157,VF Blooming Stinson ,2015,Sorrel,Mare,Eddie Stinson,Marne Loosenort,50,23.524,152,23.94
+151,158,Sheza Slick Design ,2015,Chestnut,Mare,Slick By Design,Dacota Monk,27,23.983,87,18.089
+152,159,Shez Fast N Famous ,2015,Black,Mare,One Famous Eagle,Kassie Hohenstein,84,24.015,116,18.982
+153,160,French Fire N Fame ,2015,Palomino,Mare,BHR Frenchies Socks,Kristi Stalls,74,24.109,115,18.856
+154,161,Ima Perfect Storm ,2014,Chestnut,Mare,The Goodbye Lane,Brandon Stokes,10,28.02,153,27.564
+155,162,Lajolla Boon Dox ,2014,Chestnut,Mare,Streakin Boon Dox,Abbi Graham,32,999.0,161,999.0
+156,163,VF Pico Stinson ,2015,Bay,Mare,Eddie Stinson,James Commander,38,999.0,44,17.597
+157,164,FC Blazinpeacholena ,2014,Chestnut,Gelding,Blazin Jetolena,Jordan Briggs,40,999.0,162,999.0
+158,165,SBD Sugar Me Sweet ,2015,Bay Roan,Gelding,Streakin Boon Dox,Jessica Lewis,96,999.0,164,999.0
+159,166,Blazin Pistol Penny ,2014,Sorrel,Mare,Blazin Jetolena,Kelsey Lutjen,104,999.0,165,999.0
+160,167,Paparazzi Love Me ,2015,Sorrel,Mare,BHR Frenchies Socks,Wyatt Paul,115,999.0,166,999.0
+161,168,La Jolla Isastreaker ,2015,Buckskin,Gelding,Streakin Boon Dox,Regina Kiehne,122,999.0,167,999.0
+162,169,Tres For Me ,2014,Bay,Gelding,Tres Seis,Kortney Fisher,123,999.0,168,999.0
+163,170,Playgun Manny ,2014,Buckskin,Gelding,PC Redwood Manny,Jade Rindlisbacher,138,999.0,138,22.553
+164,171,Streakin And Shaken ,2014,Grey,Gelding,Streakin Boon Dox,Wendy Cline,141,999.0,170,999.0
+165,172,Featuring This Jet ,2015,Bay,Gelding,Blazin Jetolena,Reagan Dillard,143,999.0,171,999.0
