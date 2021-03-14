@@ -14,7 +14,3 @@ One such event is the Pink Buckle barrel race.   According to their website, “
 
 I was considering out crossing a cutting bred mare to a barrel racing sire.   Pink Buckle Eligible foals are in demand.   I had an intuitive understanding of the results because I've grown up around the events, and had several friends with horses running in the futurity.  
 
-Files
-
-PDFResults_to_CSV.ipynb is the conversion from PDF to a messy CSV format.  
-
